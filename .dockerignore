@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/node_modules/
+
+# Claves: nunca dentro de una imagen
+**/keys/
+
+# Git
+.git/
+.gitignore
